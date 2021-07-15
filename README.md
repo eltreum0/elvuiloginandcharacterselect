@@ -26,7 +26,7 @@ This means extract the following folders:
 	* Tooltips  
 	* Vehicles  
 
-## Classic Fix:
+Classic Fix:
 	For Classic the highlight is used differently and it will break out of bounds on some buttons. The glues work for the most part and if you wish to use them extract the folders inside Classic Fix after choosing a version from above.
 	This means open the classic fix folder and extract the Glues folder inside of it into your Interface folder as you did above, but overwrite the contents with the file from Classic Fix.
 

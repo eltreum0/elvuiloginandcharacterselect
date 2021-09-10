@@ -1,4 +1,4 @@
-# ElvUI Login Screen and Character Select 
+# ElvUI Login Screen and Character Select
 
 Glues and Buttons to update the Login Screen and Character Select to the ElvUI Style, these files were updated by Eltreum and include files from ODDBALL250's version
 

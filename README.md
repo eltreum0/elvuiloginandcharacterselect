@@ -57,6 +57,7 @@ Or Download from github:
 **[Grey](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/classic-grey-regular.zip)**  
 \
 **Classic Transparent**\
+**[Blue](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/classic-blue-transparent.zip)**  
 **[Red](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/classic-red-transparent.zip)**  
 **[Grey](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/classic-grey-transparent.zip)**  
 

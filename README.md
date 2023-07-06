@@ -37,7 +37,7 @@ Failure to extract these folders into your Interface folder will result in this 
 
 ## Download
 
-Find the newest version at https://www.tukui.org/addons.php?id=202  
+Find the newest version at https://www.wowinterface.com/downloads/fileinfo.php?id=25941
 \
 Or Download from github:  
 \

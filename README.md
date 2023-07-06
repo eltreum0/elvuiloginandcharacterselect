@@ -51,15 +51,25 @@ Or Download from github:
 **[Red](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/retail-red-transparent.zip)**  
 **[Grey](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/retail-grey-transparent.zip)**  
 \
-**Classic Regular**\
+**Classic Wrath Regular**\
 **[Blue](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/classic-blue-regular.zip)**  
 **[Red](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/classic-red-regular.zip)**  
 **[Grey](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/classic-grey-regular.zip)**  
 \
-**Classic Transparent**\
+**Classic Wrath Transparent**\
 **[Blue](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/classic-blue-transparent.zip)**  
 **[Red](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/classic-red-transparent.zip)**  
 **[Grey](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/classic-grey-transparent.zip)**  
+\
+**Classic Era Regular**\
+**[Blue](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/era-blue-regular.zip)**  
+**[Red](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/era-red-regular.zip)**  
+**[Grey](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/era-grey-regular.zip)**  
+\
+**Classic Era Transparent**\
+**[Blue](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/era-blue-transparent.zip)**  
+**[Red](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/era-red-transparent.zip)**  
+**[Grey](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/era-grey-transparent.zip)**  
 
 ## Extra Credits:
 Chat Bubble glues by Translit

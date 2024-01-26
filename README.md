@@ -2,6 +2,10 @@
 
 Glues and Buttons to update the Login Screen and Character Select to the ElvUI Style, these files were updated by Eltreum and include files from ODDBALL250's version
 
+## Preview
+
+[![](https://github.com/eltreum0/elvuiloginandcharacterselect/raw/main/LoginPreview.webp)](https://raw.githubusercontent.com/eltreum0/elvuiloginandcharacterselect/main/LoginPreview.webp)
+
 ## Installation
 
 Select the branch you want. Choose between Red, Blue and Grey versions, then choose between Regular/Opaque and Transparent buttons.

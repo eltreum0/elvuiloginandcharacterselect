@@ -24,7 +24,9 @@ This means extract the following folders:
 	* HELPFRAME  
 	* Interface  
 	* MacroFrame  
+	* options
 	* optionsframe  
+	* playerchoice  
 	* PaperDollInfoFrame  
 	* STORE  
 	* Tooltips  
@@ -43,12 +45,12 @@ Find the newest version at https://www.wowinterface.com/downloads/fileinfo.php?i
 \
 Or Download from github:  
 \
-**Retail Regular**\
+**Retail/Forever Regular**\
 **[Blue](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/retail-blue-regular.zip)**  
 **[Red](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/retail-red-regular.zip)**  
 **[Grey](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/retail-grey-regular.zip)**  
 \
-**Retail Transparent**\
+**Retail/Forever Transparent**\
 **[Blue](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/retail-blue-transparent.zip)**  
 **[Red](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/retail-red-transparent.zip)**  
 **[Grey](https://github.com/eltreum0/elvuiloginandcharacterselect/archive/refs/heads/retail-grey-transparent.zip)**  
